@@ -1,0 +1,9 @@
+ExceptionCode = -1073741819
+ExceptionFlags = 0
+ExceptionAddress = 0x7ff88fbdfd23The error occurred in line 726 of file "C:\Build\Vision\VISSIM230\Vissim\src\Vissim\Dialogs\netzwin.cpp" in function "int __cdecl main_eh(void *,struct XVT2DOTNET::s_event *)".
+Information:
+not availableThe error occurred in line 2333 of file "C:\Build\Vision\VISSIM230\Vissim\src\XVT2DotNet\XVT2DotNet.cpp" in function "void __cdecl XVT2DOTNET::CXVT2DotNet::OnToolClick(int)".
+Information:
+The error occurred in line 726 of file "C:\Build\Vision\VISSIM230\Vissim\src\Vissim\Dialogs\netzwin.cpp" in function "int __cdecl main_eh(void *,struct XVT2DOTNET::s_event *)".
+Information:
+not available

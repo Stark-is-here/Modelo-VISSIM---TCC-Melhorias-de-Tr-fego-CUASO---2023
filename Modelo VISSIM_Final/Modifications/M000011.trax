@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<conflictAreas>
+		<added>
+			<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="2" link2="10013" mesoCritGap="3.5" minGapBlockDef="3" no="170" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+			<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10011" link2="10013" mesoCritGap="3.5" minGapBlockDef="3" no="171" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		</added>
+	</conflictAreas>
+	<links>
+		<modified>
+			<link no="10013">
+				<fromLinkEndPt>
+					<modified pos="35.741500034207938"/>
+				</fromLinkEndPt>
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="36.287859447335059" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="278.15393135622537" y="217.48280170669042" zOffset="0"/>
+								<linkPolyPoint rad="35.255569418483375" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="280.10954714945865" y="217.85013069023594" zOffset="0"/>
+								<linkPolyPoint rad="32.140826135414528" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="282.05951932175225" y="218.46556284627471" zOffset="0"/>
+								<linkPolyPoint rad="31.295563603682986" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="284.00262924065163" y="219.28320254925293" zOffset="0"/>
+								<linkPolyPoint rad="43.306716330246907" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="285.93765827370248" y="220.25715417361681" zOffset="0"/>
+								<linkPolyPoint rad="76.739141942741682" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="287.86338778845038" y="221.34152209381244" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="289.77859915244085" y="222.49041068428616" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="291.68207373321934" y="223.65792431948401" zOffset="0"/>
+								<linkPolyPoint rad="78.278972635689414" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="293.57259289833161" y="224.79816737385235" zOffset="0"/>
+								<linkPolyPoint rad="40.971095010927492" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="295.44893801532322" y="225.86524422183723" zOffset="0"/>
+								<linkPolyPoint rad="25.059925586418313" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="297.30989045173965" y="226.81325923788486" zOffset="0"/>
+								<linkPolyPoint rad="17.166538719154477" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="299.15423157512652" y="227.5963167964415" zOffset="0"/>
+								<linkPolyPoint rad="13.785701497659479" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="300.98074275302935" y="228.16852127195327" zOffset="0"/>
+								<linkPolyPoint rad="11.786440472569744" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="302.78820535299377" y="228.48397703886639" zOffset="0"/>
+								<linkPolyPoint rad="11.216243602336624" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="304.57540074256536" y="228.49678847162701" zOffset="0"/>
+								<linkPolyPoint rad="10.903500042159735" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="306.3411102892897" y="228.16105994468137" zOffset="0"/>
+								<linkPolyPoint rad="17.723664697430685" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="308.0841153607123" y="227.43089583247564" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+				<toLinkEndPt>
+					<modified lane="2 1" pos="3.213989004168349"/>
+				</toLinkEndPt>
+			</link>
+		</modified>
+	</links>
+	<ptLines>
+		<modified>
+			<ptLine destPos="76.081747392402534" no="1"/>
+			<ptLine destPos="76.930143553196473" no="2">
+				<linkSeq>
+					<intObjectRef key="10000"/>
+					<intObjectRef key="10"/>
+					<intObjectRef key="10001"/>
+					<intObjectRef key="4"/>
+					<intObjectRef key="10006"/>
+					<intObjectRef key="19"/>
+					<intObjectRef key="10002"/>
+					<intObjectRef key="5"/>
+					<intObjectRef key="10023"/>
+					<intObjectRef key="20"/>
+					<intObjectRef key="10022"/>
+					<intObjectRef key="19"/>
+					<intObjectRef key="10012"/>
+					<intObjectRef key="8"/>
+					<intObjectRef key="10013"/>
+				</linkSeq>
+			</ptLine>
+			<ptLine destPos="77.332732842710087" no="4">
+				<linkSeq>
+					<intObjectRef key="10019"/>
+					<intObjectRef key="13"/>
+					<intObjectRef key="10021"/>
+					<intObjectRef key="6"/>
+					<intObjectRef key="10008"/>
+					<intObjectRef key="19"/>
+					<intObjectRef key="10012"/>
+					<intObjectRef key="8"/>
+					<intObjectRef key="10013"/>
+				</linkSeq>
+			</ptLine>
+		</modified>
+	</ptLines>
+	<vehicleRoutingDecisionsStatic>
+		<modified>
+			<vehicleRoutingDecisionStatic no="1">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic destPos="25.225564949682798" no="1"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+			<vehicleRoutingDecisionStatic no="3">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic destPos="22.136548581096438" no="4"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+			<vehicleRoutingDecisionStatic no="16">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic destPos="23.521730461241876" no="2"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+			<vehicleRoutingDecisionStatic no="18">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic destPos="26.857862095580511" no="1">
+							<linkSeq>
+								<intObjectRef key="10012"/>
+								<intObjectRef key="8"/>
+								<intObjectRef key="10013"/>
+							</linkSeq>
+						</vehicleRouteStatic>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+		</modified>
+	</vehicleRoutingDecisionsStatic>
+</network>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<reducedSpeedAreas>
+		<deleted>
+			<reducedSpeedArea no="43"/>
+			<reducedSpeedArea no="44"/>
+			<reducedSpeedArea no="46"/>
+			<reducedSpeedArea no="47"/>
+			<reducedSpeedArea no="48"/>
+			<reducedSpeedArea no="49"/>
+			<reducedSpeedArea no="52"/>
+			<reducedSpeedArea no="53"/>
+			<reducedSpeedArea no="54"/>
+			<reducedSpeedArea no="55"/>
+			<reducedSpeedArea no="56"/>
+			<reducedSpeedArea no="57"/>
+			<reducedSpeedArea no="58"/>
+			<reducedSpeedArea no="59"/>
+			<reducedSpeedArea no="60"/>
+			<reducedSpeedArea no="74"/>
+			<reducedSpeedArea no="79"/>
+			<reducedSpeedArea no="80"/>
+			<reducedSpeedArea no="81"/>
+		</deleted>
+	</reducedSpeedAreas>
+	<vehicleInputs>
+		<modified>
+			<vehicleInput no="1">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="740"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="2">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="30"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="3">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="340"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="4">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="290"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="5">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="940"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+		</modified>
+	</vehicleInputs>
+</network>

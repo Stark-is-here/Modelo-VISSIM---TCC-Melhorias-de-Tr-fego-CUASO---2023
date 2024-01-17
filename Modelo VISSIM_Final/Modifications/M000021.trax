@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<reducedSpeedAreas>
+		<deleted>
+			<reducedSpeedArea no="43"/>
+			<reducedSpeedArea no="44"/>
+			<reducedSpeedArea no="46"/>
+			<reducedSpeedArea no="47"/>
+			<reducedSpeedArea no="48"/>
+			<reducedSpeedArea no="49"/>
+			<reducedSpeedArea no="50"/>
+			<reducedSpeedArea no="51"/>
+			<reducedSpeedArea no="52"/>
+			<reducedSpeedArea no="53"/>
+			<reducedSpeedArea no="54"/>
+			<reducedSpeedArea no="55"/>
+			<reducedSpeedArea no="56"/>
+			<reducedSpeedArea no="57"/>
+			<reducedSpeedArea no="58"/>
+			<reducedSpeedArea no="59"/>
+			<reducedSpeedArea no="60"/>
+			<reducedSpeedArea no="62"/>
+			<reducedSpeedArea no="63"/>
+		</deleted>
+	</reducedSpeedAreas>
+</network>

@@ -1,0 +1,2 @@
+﻿                  Warning	Simulation second 646.00: Vehicle 233 (on Static Vehicle Route "1 - 1") reached the end of link "6: Av. da Universidade" without finding the subsequent link ("10008: Av. da Universidade — Praça Dr. Reynaldo").	Network object type: Vehicle	Network object keys: 233
+                  Warning	Vehicle input 1: Veículos — Av. Afrãnio Peixoto could not be finished completely (remain: 4 vehicles).	Network object type: Vehicle Input	Network object keys: 1

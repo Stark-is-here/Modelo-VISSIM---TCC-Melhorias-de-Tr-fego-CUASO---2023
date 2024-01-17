@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<vehicleInputs>
+		<modified>
+			<vehicleInput no="1">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="650"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="2">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="55"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="3">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="355"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="4">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="270"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="5">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="850"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+		</modified>
+	</vehicleInputs>
+	<vehicleRoutingDecisionsStatic>
+		<modified>
+			<vehicleRoutingDecisionStatic no="3">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic no="1" relFlow=""/>
+						<vehicleRouteStatic no="4" relFlow="2 0:0"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+			<vehicleRoutingDecisionStatic no="13">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic no="2" relFlow="2 0:67"/>
+						<vehicleRouteStatic no="3" relFlow="2 0:31"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+			<vehicleRoutingDecisionStatic no="14">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic no="1" relFlow="2 0:70"/>
+						<vehicleRouteStatic no="2" relFlow="2 0:30"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+			<vehicleRoutingDecisionStatic no="16">
+				<vehRoutSta>
+					<modified>
+						<vehicleRouteStatic no="1" relFlow=""/>
+						<vehicleRouteStatic no="2" relFlow="2 0:0"/>
+					</modified>
+				</vehRoutSta>
+			</vehicleRoutingDecisionStatic>
+		</modified>
+	</vehicleRoutingDecisionsStatic>
+</network>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<conflictAreas>
+		<added>
+			<conflictArea addStopDist="0" anticipRout="0" avoidBlockMajor="true" avoidBlockMinor="1" conflTypDetmAuto="true" conflTypMan="CROSSING" frontGapDef="0.5" link1="10008" link2="10009" mesoCritGap="3.5" minGapBlockDef="3" no="28" obsAdjLns="false" rearGapDef="0.5" safDistFactDef="1.5" status="PASSIVE" visibLink1="100" visibLink2="100"/>
+		</added>
+	</conflictAreas>
+	<links>
+		<modified>
+			<link no="1">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="2">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+						<lane index="3" width="3.5"/>
+						<lane index="4" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="3">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="4">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="5">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="6">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+						<lane index="3" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="7">
+				<lanes>
+					<modified>
+						<lane index="1" width="3.5"/>
+						<lane index="2" width="3.5"/>
+						<lane index="3" width="3.5"/>
+					</modified>
+				</lanes>
+			</link>
+			<link no="10000">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="275.63328768020529" y="366.33484934840214" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="273.05961596527447" y="363.326473062155" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10001">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="273.68044424432259" y="344.08079641166142" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="276.8169750812574" y="340.40558192515164" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10003">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="15.719602248726035" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="292.42158394761748" y="228.98822768349117" zOffset="0"/>
+								<linkPolyPoint rad="17.081156402167025" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="296.4727189007358" y="230.61817788366164" zOffset="0"/>
+								<linkPolyPoint rad="17.124379832384626" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="300.99151689262965" y="231.050564292167" zOffset="0"/>
+								<linkPolyPoint rad="22.908558664328741" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="305.53986565970422" y="230.40033783305901" zOffset="0"/>
+								<linkPolyPoint rad="40.160594599816918" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="309.58401045426865" y="228.60680058969885" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10007">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="55.985315595345789" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="248.979007691633" y="306.3878647962627" zOffset="0"/>
+								<linkPolyPoint rad="36.29516568954763" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="243.4843081783591" y="304.57290796783434" zOffset="0"/>
+								<linkPolyPoint rad="32.136540840812295" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="237.6534745166241" y="303.79677537542557" zOffset="0"/>
+								<linkPolyPoint rad="28.402188303580708" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="231.75109797799098" y="304.00121721049527" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="226.1267802245699" y="305.36372866852111" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10008">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="250.65794840603846" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="211.54815724055749" y="278.80693982193634" zOffset="0"/>
+								<linkPolyPoint rad="77.870475617444782" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="215.24587147540626" y="277.14107533590129" zOffset="0"/>
+								<linkPolyPoint rad="12.196351513681318" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="219.02769433561539" y="275.15186682182218" zOffset="0"/>
+								<linkPolyPoint rad="6.9971200586418751" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="221.90658634488886" y="272.68003768407641" zOffset="0"/>
+								<linkPolyPoint rad="11.098010453794831" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="222.84864349435833" y="269.47797268551471" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10009">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="217.22935849316139" y="281.73604484749916" zOffset="0"/>
+								<linkPolyPoint rad="40.621165465082953" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="217.73861171582365" y="281.24253220893473" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="218.34669071935843" y="280.93505293292543" zOffset="0"/>
+								<linkPolyPoint rad="33.627880624598298" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="218.96256494449278" y="280.64442972827101" zOffset="0"/>
+								<linkPolyPoint rad="34.495891166179298" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="219.58893289709837" y="280.37816258682449" zOffset="0"/>
+								<linkPolyPoint rad="46.706584791954469" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="220.35976519500787" y="280.1104936473435" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="221.14516305365296" y="279.88351671010747" zOffset="0"/>
+								<linkPolyPoint rad="24.549029776431084" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="221.93035458886686" y="279.65602311136189" zOffset="0"/>
+								<linkPolyPoint rad="6.8970862718050867" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="222.70056791648275" y="279.3868041873522" zOffset="0"/>
+								<linkPolyPoint rad="5.5532236117805187" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="223.32534262277179" y="279.15884998326254" zOffset="0"/>
+								<linkPolyPoint rad="4.8498945629164698" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="223.9549643193599" y="278.92685106857908" zOffset="0"/>
+								<linkPolyPoint rad="4.1201042844077529" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="224.54585948696572" y="278.63753207497871" zOffset="0"/>
+								<linkPolyPoint rad="4.0672060648098709" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="225.05445460630776" y="278.23761763413847" zOffset="0"/>
+								<linkPolyPoint rad="3.8628149232085094" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="225.39097025134177" y="277.8443610313804" zOffset="0"/>
+								<linkPolyPoint rad="3.9127135235693129" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="225.67617973494583" y="277.3945775007486" zOffset="0"/>
+								<linkPolyPoint rad="4.0266250654294797" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="225.84765497888512" y="276.91383414671333" zOffset="0"/>
+								<linkPolyPoint rad="4.4434689165135737" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="225.79453793934894" y="276.44016889011255" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10010">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="38.879673765981551" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="243.25987000721162" y="301.2469296923004" zOffset="0"/>
+								<linkPolyPoint rad="22.397984615049715" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="239.53756174643831" y="299.63219185072717" zOffset="0"/>
+								<linkPolyPoint rad="24.559365147793862" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="235.39496287667529" y="299.06054108173123" zOffset="0"/>
+								<linkPolyPoint rad="27.379791883208554" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="231.139349210859" y="299.30095819866557" zOffset="0"/>
+								<linkPolyPoint rad="31.72921630027821" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="226.9031104364727" y="299.68582462415185" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10011">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="296.24055191436537" y="231.96576211918386" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="297.18369926610927" y="232.72782784222898" zOffset="0"/>
+								<linkPolyPoint rad="33.346886911091616" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="298.14400686909534" y="233.46980719606583" zOffset="0"/>
+								<linkPolyPoint rad="24.469329347867646" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="299.1325297648529" y="234.17069013112979" zOffset="0"/>
+								<linkPolyPoint rad="20.463933568851775" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="300.16032299491178" y="234.80946659785624" zOffset="0"/>
+								<linkPolyPoint rad="17.0394743789305" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="301.12648780209963" y="235.34169628963863" zOffset="0"/>
+								<linkPolyPoint rad="14.225517396584456" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="302.11849981610266" y="235.82975223251739" zOffset="0"/>
+								<linkPolyPoint rad="12.272568668112491" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="303.13891473066565" y="236.24650068288452" zOffset="0"/>
+								<linkPolyPoint rad="11.510470237573275" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="304.1902882395334" y="236.56480789713197" zOffset="0"/>
+								<linkPolyPoint rad="10.613088910813545" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="305.19759124502303" y="236.7796431324827" zOffset="0"/>
+								<linkPolyPoint rad="9.8178889371149758" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="306.22359679333005" y="236.91875220092018" zOffset="0"/>
+								<linkPolyPoint rad="9.3509060539059092" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="307.25228129547503" y="236.94929810371872" zOffset="0"/>
+								<linkPolyPoint rad="9.5242599776734789" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="308.26762116247846" y="236.8384438421526" zOffset="0"/>
+								<linkPolyPoint rad="10.030003522486414" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="309.17501500447725" y="236.56572796639819" zOffset="0"/>
+								<linkPolyPoint rad="13.530886889369086" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="310.03759924045568" y="236.15373044341027" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="310.87542815236509" y="235.67265022625233" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="311.80419850625287" y="235.36833510867814" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10012">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="24.257304668491489" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="231.63206210723601" y="236.19409018803643" zOffset="0"/>
+								<linkPolyPoint rad="20.719952286285451" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="233.55741413333041" y="231.57962924670969" zOffset="0"/>
+								<linkPolyPoint rad="22.085509916855159" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="236.53122161492198" y="227.54720184279239" zOffset="0"/>
+								<linkPolyPoint rad="22.146438103032501" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="239.77623445692677" y="224.3527066067839" zOffset="0"/>
+								<linkPolyPoint rad="26.402421486572532" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="243.48446898151576" y="221.70224138766639" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+			<link no="10013">
+				<geometry>
+					<modified>
+						<linkPolyPts>
+							<overwritten>
+								<linkPolyPoint rad="30.28750521216574" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="277.69129497127199" y="217.42893570948866" zOffset="0"/>
+								<linkPolyPoint rad="27.398524322401453" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="278.67605096341498" y="217.61544311615606" zOffset="0"/>
+								<linkPolyPoint rad="27.422042045427204" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="279.63767349603552" y="217.91478333482505" zOffset="0"/>
+								<linkPolyPoint rad="26.633031604033842" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="280.58017442026824" y="218.28516406768529" zOffset="0"/>
+								<linkPolyPoint rad="25.247150317400759" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="281.50756558724765" y="218.68479301692668" zOffset="0"/>
+								<linkPolyPoint rad="22.639234816268392" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="282.47991160294913" y="219.14219068912456" zOffset="0"/>
+								<linkPolyPoint rad="22.129566961720641" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="283.42886954827657" y="219.64854868932093" zOffset="0"/>
+								<linkPolyPoint rad="25.437621640710791" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="284.35929302345966" y="220.19015191100084" zOffset="0"/>
+								<linkPolyPoint rad="29.660026535417853" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="285.27603562872793" y="220.75328524764956" zOffset="0"/>
+								<linkPolyPoint rad="28.207435135985595" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="286.16994388233235" y="221.31646112867125" zOffset="0"/>
+								<linkPolyPoint rad="25.71430862715145" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="287.05242005116492" y="221.89906038898974" zOffset="0"/>
+								<linkPolyPoint rad="22.447205167216804" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="287.90846094127323" y="222.51700978092509" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="288.72306335870496" y="223.18623605679736" zOffset="0"/>
+								<linkPolyPoint rad="40.086206301881035" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="289.6329398887712" y="223.82433527160339" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="290.3548508881791" y="224.69283643686313" zOffset="0"/>
+								<linkPolyPoint radiusEffect="BRAKE" radiusSrc="CALCULATED" x="291.06693460833532" y="225.52449495687043" zOffset="0"/>
+								<linkPolyPoint rad="34.059010924752428" radiusEffect="BRAKE" radiusSrc="CALCULATED" x="291.75278575166493" y="226.51846924301617" zOffset="0"/>
+							</overwritten>
+						</linkPolyPts>
+					</modified>
+				</geometry>
+			</link>
+		</modified>
+	</links>
+	<reducedSpeedAreas>
+		<modified>
+			<reducedSpeedArea no="13" pos="2.3701098200357502"/>
+			<reducedSpeedArea no="16" pos="2.2351638459453453"/>
+			<reducedSpeedArea no="17" pos="2.7569420575595514"/>
+			<reducedSpeedArea no="18" pos="5.3277806029785637"/>
+			<reducedSpeedArea no="29" pos="0.61112719166976759"/>
+			<reducedSpeedArea no="35" pos="1.4946483542489486"/>
+		</modified>
+	</reducedSpeedAreas>
+</network>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<ptLines>
+		<modified>
+			<ptLine no="2" vehType="300"/>
+			<ptLine no="4" vehType="300"/>
+		</modified>
+	</ptLines>
+	<vehicleTravelTimeMeasurements>
+		<deleted>
+			<vehicleTravelTimeMeasurement no="3"/>
+			<vehicleTravelTimeMeasurement no="11"/>
+		</deleted>
+		<added>
+			<vehicleTravelTimeMeasurement name="CEPEUSP - P1" no="14">
+				<end link="2" pos="84.073271780042049"/>
+				<start link="18" pos="59.362672909788365"/>
+			</vehicleTravelTimeMeasurement>
+		</added>
+		<modified>
+			<vehicleTravelTimeMeasurement no="12">
+				<end>
+					<modified pos="83.627359515109475"/>
+				</end>
+				<start>
+					<modified pos="14.059097091950946"/>
+				</start>
+			</vehicleTravelTimeMeasurement>
+		</modified>
+	</vehicleTravelTimeMeasurements>
+</network>

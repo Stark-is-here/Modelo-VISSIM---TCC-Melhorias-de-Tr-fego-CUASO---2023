@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<network version="1000" vissimVersion="2023.00-06 [258684]">
+	<vehicleInputs>
+		<modified>
+			<vehicleInput no="1">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="670"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="2">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" volume="25"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+			<vehicleInput no="3">
+				<timeIntVehVols>
+					<modified>
+						<timeIntervalVehVolume timeInt="1 0" vehComp="3" volume="305"/>
+					</modified>
+				</timeIntVehVols>
+			</vehicleInput>
+		</modified>
+	</vehicleInputs>
+</network>
